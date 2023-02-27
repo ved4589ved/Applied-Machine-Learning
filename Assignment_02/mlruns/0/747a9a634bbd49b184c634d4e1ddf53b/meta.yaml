@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/747a9a634bbd49b184c634d4e1ddf53b/artifacts
+end_time: 1677485022378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 747a9a634bbd49b184c634d4e1ddf53b
+run_name: puzzled-eel-347
+run_uuid: 747a9a634bbd49b184c634d4e1ddf53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677485013930
+status: 3
+tags: []
+user_id: root
