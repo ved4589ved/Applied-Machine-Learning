@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/8b961f6272d743e2abc08e38cb777840/artifacts
+end_time: 1677484995548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b961f6272d743e2abc08e38cb777840
+run_name: marvelous-dove-919
+run_uuid: 8b961f6272d743e2abc08e38cb777840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677484991549
+status: 3
+tags: []
+user_id: root
