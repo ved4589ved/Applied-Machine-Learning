@@ -1,0 +1,12 @@
+creation_timestamp: 1677485026775
+current_stage: None
+description: null
+last_updated_timestamp: 1677485026775
+name: multilayer-perceptron-model
+run_id: 47fa9983ff264df7a8d48ca281b712c7
+run_link: null
+source: file:///content/mlruns/0/47fa9983ff264df7a8d48ca281b712c7/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1
