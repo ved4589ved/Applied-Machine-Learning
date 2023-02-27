@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/6a485ca6fe304238a5b36dc823eade29/artifacts
+end_time: 1677484991341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a485ca6fe304238a5b36dc823eade29
+run_name: gifted-mule-694
+run_uuid: 6a485ca6fe304238a5b36dc823eade29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677484989245
+status: 3
+tags: []
+user_id: root
